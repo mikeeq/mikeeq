@@ -9,6 +9,12 @@
 </a>
 <br/>
 
+## 🎓 Resume:
+<a href="https://github.com/mikeeq/cv/releases/download/v2021_04_23/mmiotk-cv.pdf" target="_blank">
+<img src=https://icons.iconarchive.com/icons/inipagi/job-seeker/128/cv-icon.png alt=resume style=“margin-bottom: 5px;” />
+</a>
+<br/>
+
 <!-- ![Profile views](https://komarev.com/ghpvc/?username=mikeeq) -->
 
 ## 🚀 Skills:

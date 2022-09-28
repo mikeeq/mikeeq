@@ -10,7 +10,7 @@
 <br/>
 
 ## 🎓 Resume:
-<a href="https://github.com/mikeeq/cv/releases/download/v2021_04_23/mmiotk-cv.pdf" target="_blank">
+<a href="https://github.com/mikeeq/cv/releases/download/v2022_09_05/mmiotk-cv.pdf" target="_blank">
 <img src=https://icons.iconarchive.com/icons/inipagi/job-seeker/128/cv-icon.png alt=resume style=“margin-bottom: 5px;” />
 </a>
 <br/>
@@ -25,6 +25,7 @@
   <a href="https://azure.microsoft.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/azure-1.png"></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/docker.png"></a>
   <a href="https://www.ansible.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/ansible.png"></a>
+  <a href="https://kernel.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linux.png"></a>
 </p>
 
 <!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mikeeq&show_icons=true&theme=tokyonight) -->

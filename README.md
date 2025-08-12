@@ -31,7 +31,7 @@
 <!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mikeeq&show_icons=true&theme=tokyonight) -->
 
 ## Stats!
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mikeeq&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=mikeeq&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 <br><br><br><br>
 

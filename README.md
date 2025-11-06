@@ -46,10 +46,21 @@
 
 ### **Linux T2** - Apple Hardware Support
 - [**Kernel Patches**](https://github.com/t2linux/linux-t2-patches/pull/14) - Improved Linux compatibility for Apple T2 chip
-- [**Driver Enhancements**](https://github.com/t2linux/linux-t2-patches/pull/2) - Additional hardware support patches
 
 ---
 *Contributing to the open source community through infrastructure automation, security hardening, and system optimization.*
+
+## 💖 Sponsors:
+
+Thank you to these amazing people for supporting my open source work!
+
+- [wwalker](https://github.com/wwalker)
+- [ghost](https://github.com/ghost)
+- [bgklc](https://github.com/bgklc)
+- [micaelis72](https://github.com/micaelis72)
+- [AkosLukacs](https://github.com/AkosLukacs)
+
+*Your support helps me continue contributing to the open source community and maintaining projects.*
 
 ## Stats!
 <img src="https://github-readme-stats.vercel.app/api?username=mikeeq&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" align="left" style="width: 100%" />

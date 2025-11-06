@@ -19,7 +19,7 @@
 
 ## 🚀 Skills:
 
-<p align="left"> 
+<p align="left">
   <a href="https://www.terraform.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/terraform.png"/></a>
   <a href="https://kubernetes.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/kubernetes.png"></a>
   <a href="https://azure.microsoft.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/azure-1.png"></a>
@@ -29,6 +29,27 @@
 </p>
 
 <!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mikeeq&show_icons=true&theme=tokyonight) -->
+
+## 🤝 Open Source Contributions:
+
+### **ArgoCD** - GitOps Continuous Delivery
+- [**Helm Chart Migration**](https://github.com/argoproj/argo-helm/pull/1162) - Enhanced chart compatibility for newer ArgoCD versions
+
+### **Kubecost** - Kubernetes Cost Monitoring
+- [**Chart Enhancements**](https://github.com/kubecost/kubecost/pull/1008) - Extended Helm chart with additional configuration parameters
+
+### **Flatpak** - Universal Package Manager
+- [**Application Maintainer**](https://github.com/flathub/com.github.debauchee.barrier) - Official maintainer of Barrier screen sharing application
+
+### **OpenWrt** - Embedded Linux Distribution
+- [**Hardware Support**](https://github.com/openwrt/openwrt/pull/9703) - Fixed firmware compatibility for Xiaomi AX3200 router
+
+### **Linux T2** - Apple Hardware Support
+- [**Kernel Patches**](https://github.com/t2linux/linux-t2-patches/pull/14) - Improved Linux compatibility for Apple T2 chip
+- [**Driver Enhancements**](https://github.com/t2linux/linux-t2-patches/pull/2) - Additional hardware support patches
+
+---
+*Contributing to the open source community through infrastructure automation, security hardening, and system optimization.*
 
 ## Stats!
 <img src="https://github-readme-stats.vercel.app/api?username=mikeeq&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" align="left" style="width: 100%" />

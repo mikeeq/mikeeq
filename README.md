@@ -32,14 +32,19 @@
 
 ## 🤝 Open Source Contributions:
 
+### **OpenRGB** - Open Source RGB Lighting Control
+- [**Fnatic Streak65 & MSI X870E Carbon Support**](https://gitlab.com/CalcProgrammer1/OpenRGB/-/merge_requests/3067) - Added RGB control for Fnatic Streak65 keyboard and MSI MEG X870E Carbon WiFi motherboard
+- [**MSI X870E Carbon Cherry-pick**](https://gitlab.com/CalcProgrammer1/OpenRGB/-/merge_requests/3079#note_2910615578) - MSI X870E Carbon WiFi support cherry-picked by another contributor from PR above
+- [**Fnatic Streak Full-size Keyboard Support**](https://gitlab.com/CalcProgrammer1/OpenRGB/-/merge_requests/3084) - Added RGB control for Fnatic Streak full-size keyboard
+
 ### **ArgoCD** - GitOps Continuous Delivery
-- [**Helm Chart Migration**](https://github.com/argoproj/argo-helm/pull/1162) - Enhanced chart compatibility for newer ArgoCD versions
+- [**Helm Chart Migration**](https://github.com/argoproj/argo-helm/pull/1162) - Enhanced chart compatibility for newer ArgoCD v2.3.1
 
 ### **Kubecost** - Kubernetes Cost Monitoring
 - [**Chart Enhancements**](https://github.com/kubecost/kubecost/pull/1008) - Extended Helm chart with additional configuration parameters
 
 ### **Flatpak** - Universal Package Manager
-- [**Application Maintainer**](https://github.com/flathub/com.github.debauchee.barrier) - Official maintainer of Barrier screen sharing application
+- [**Application Maintainer**](https://github.com/flathub/com.github.debauchee.barrier) - Official maintainer of flatpak package for Barrier screen sharing application
 
 ### **OpenWrt** - Embedded Linux Distribution
 - [**Hardware Support**](https://github.com/openwrt/openwrt/pull/9703) - Fixed firmware compatibility for Xiaomi AX3200 router
@@ -63,7 +68,7 @@ Thank you to these amazing people for supporting my open source work!
 *Your support helps me continue contributing to the open source community and maintaining projects.*
 
 ## Stats!
-<img src="https://github-readme-stats.vercel.app/api?username=mikeeq&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" align="left" style="width: 100%" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=mikeeq&theme=one-dark-pro&hide_border=true&card_width=850&card_height=240)](https://git.io/streak-stats)
 
 <br><br><br><br>
 

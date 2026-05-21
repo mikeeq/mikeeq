@@ -68,7 +68,7 @@ Thank you to these amazing people for supporting my open source work!
 *Your support helps me continue contributing to the open source community and maintaining projects.*
 
 ## Stats!
-[GitHub Streak](https://streak-stats.demolab.com?user=mikeeq&theme=one-dark-pro&hide_border=true&card_width=850&card_height=240)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mikeeq&theme=one-dark-pro&hide_border=true&card_width=850&card_height=240)](https://git.io/streak-stats)
 
 <br><br><br><br>
 
